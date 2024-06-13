@@ -19,7 +19,7 @@ namespace SoniaGhandiAPI.Controllers
             // New update
             // Test
             // Added Developer - 2
-            int c = 9;
+            int c = 9; int m = 99;
         }
 
         // GET: api/<TeachersController>

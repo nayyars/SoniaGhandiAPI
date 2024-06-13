@@ -15,10 +15,11 @@ namespace SoniaGhandiAPI.Controllers
         private readonly IRepository<TeacherViewModel> _TeacherRepository;
         public TeachersController(IRepository<TeacherViewModel> teacherRepository)
         {
-            _TeacherRepository = teacherRepository; 
+            _TeacherRepository = teacherRepository;
             // New update
             // Test
             // Added Developer - 2
+            int c = 9;
         }
 
         // GET: api/<TeachersController>
